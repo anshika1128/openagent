@@ -1,6 +1,2 @@
-{{#anshika1128}
-Name: Anshika Pandey
-Skills: HTML, CSS, JS, Node.js, React.js, Express.js, Python
-Email: anshika11022001@gmail.com
-{{/anshika1128}}
+
 
